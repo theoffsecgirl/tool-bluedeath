@@ -6,7 +6,7 @@ Permite escanear, identificar actividad, comprobar conectividad y ejecutar prueb
 ## ¿Por qué existe BLUEDEATH?
 
 La mayoría de herramientas para auditoría Bluetooth clásico están desfasadas, incompletas o son demasiado ruidosas.
-BLUEDEATH nace para ofrecer una alternativa **clara, minimalista y funcional**, pensada para:
+`BLUEDEATH` nace para ofrecer una alternativa **clara, minimalista y funcional**, pensada para:
 
 * enumerar dispositivos BR/EDR de forma fiable,
 * verificar actividad mediante `l2ping`,
